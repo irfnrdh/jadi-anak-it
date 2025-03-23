@@ -10,6 +10,16 @@ Anak IT itu terkenal bisa mengerjakan ini dan itu, sebenarnya tidak.
 Didalam dunia IT itu luas sekali dan Kuliah di jurusan IT itu 
 umumnya termasuk dalam fakultas Teknik, Science atau Industri
 
+Menjadi Anak IT itu berarti harus "SIAP-SIAP BELAJAR LEBIH GIAT".  
+Setiap hari akan selalu ada update terbaru yang jika tak diikuti,
+Maka akan ketinggalan.
+
+Dan hal itu ada cara untuk mengatasinya dengan membangun "Sistem Basis Pengetahuan" Sendiri Sejak Dini.  
+Apa itu? itu adalah sebuah cara belajar bagaimana belajar.
+
+Itu semua berasal dari "Dalam Diri".  
+Jika tidak maka akan sulit termovitasi untuk terus belajar.
+
 ## Daftar Isi
 - [Pengenalan](#pengenalan)
 - [Jurusan-Jurusan IT di Perguruan Tinggi](#jurusan-jurusan-it-di-perguruan-tinggi)
