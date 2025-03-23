@@ -2,7 +2,8 @@
 
 Saya harus buat ini untuk adik saya, menjelaskan kepadanya bagaimana Dunia IT itu. Kebetulan ia katanya mau ambil jurusan "**Teknik Informatika**". Dia mau bertanya "Apa bedanya Manajemen Informatika dan Teknik Informatika?" Untuk menjawab pertanyaan itu lebih detail saya akhirnya membuat Roadmap Belajar & Jenjang Karir Jadi Anak IT. Peta ini saya buat dari Perspektif Saya, Mohon koreksi apabila ada yang salah.
 
-Sebelum memulai karir yang benar-benar di IT pastikan bisa memenuhi GAP atau jarak dalam kebutuhan di dunia Industri.
+Sebelum memulai karir yang benar-benar di IT pastikan bisa memenuhi GAP atau jarak dalam kebutuhan di dunia Industri.  
+Bagaimana itu? Semua akan saya jawab pada repository ini.
 
 ## Jargon "Lu Kan Anak IT"
 
