@@ -2,10 +2,13 @@
 
 Saya harus buat ini untuk adik saya, menjelaskan kepadanya bagaimana Dunia IT itu. Kebetulan ia katanya mau ambil jurusan "**Teknik Informatika**". Dia mau bertanya "Apa bedanya Manajemen Informatika dan Teknik Informatika?" Untuk menjawab pertanyaan itu lebih detail saya akhirnya membuat Roadmap Belajar & Jenjang Karir Jadi Anak IT. Peta ini saya buat dari Perspektif Saya, Mohon koreksi apabila ada yang salah.
 
-## Lu Kan Anak IT
+Sebelum memulai karir yang benar-benar di IT pastikan bisa memenuhi GAP atau jarak dalam kebutuhan di dunia Industri.
+
+## Jargon "Lu Kan Anak IT"
 
 Anak IT itu terkenal bisa mengerjakan ini dan itu, sebenarnya tidak.  
-Didalam dunia IT itu luas sekali.
+Didalam dunia IT itu luas sekali dan Kuliah di jurusan IT itu 
+umumnya termasuk dalam fakultas Teknik, Science atau Industri
 
 ## Daftar Isi
 - [Pengenalan](#pengenalan)
