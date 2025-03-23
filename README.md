@@ -16,7 +16,7 @@ Setiap hari akan selalu ada update terbaru yang jika tak diikuti,
 Maka akan ketinggalan.
 
 Dan hal itu ada cara untuk mengatasinya dengan membangun "Sistem Basis Pengetahuan" Sendiri Sejak Dini.  
-Apa itu? itu adalah sebuah cara belajar bagaimana belajar.
+Apa itu? itu adalah sebuah cara belajar bagaimana belajar.  
 
 Itu semua berasal dari "Dalam Diri".  
 Jika tidak maka akan sulit termovitasi untuk terus belajar.
