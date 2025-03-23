@@ -1,4 +1,4 @@
-Indonesia menghadapi tantangan signifikan dalam menyiapkan lulusan IT yang siap kerja. Meskipun terdapat ratusan ribu lulusan dari berbagai program studi informatika setiap tahun, hanya sebagian kecil yang benar-benar terjun ke dunia kerja di bidang teknologi informasi.
+> Indonesia menghadapi tantangan signifikan dalam menyiapkan lulusan IT yang siap kerja. Meskipun terdapat ratusan ribu lulusan dari berbagai program studi informatika setiap tahun, hanya sebagian kecil yang benar-benar terjun ke dunia kerja di bidang teknologi informasi.
 
 ## Kebutuhan dan Ketersediaan Tenaga IT
 
